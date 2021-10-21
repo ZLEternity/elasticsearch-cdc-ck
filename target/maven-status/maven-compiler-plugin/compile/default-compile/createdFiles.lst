@@ -1,0 +1,10 @@
+com/ctrip/cdc/PluginSettings.class
+com/ctrip/cdc/Config.class
+com/ctrip/cdc/DataBean.class
+com/ctrip/cdc/ck/CachedCkClient.class
+com/ctrip/cdc/CDCListener$1.class
+com/ctrip/cdc/ck/CachedCkClient$1.class
+com/ctrip/cdc/CDCPlugin.class
+com/ctrip/cdc/CkClientSettings.class
+com/ctrip/cdc/ck/CkConnectionPool.class
+com/ctrip/cdc/CDCListener.class
