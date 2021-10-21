@@ -8,6 +8,7 @@
 
 指定cdc数据写入到的clickhouse集群的域名、访问域名的用户名密码、cdc数据写到clickhouse集群的数据库名、批量写入clickhouse的批次大小和时间
 
+```java
 PUT _cluster/settings
 {
   "persistent": {
@@ -19,10 +20,12 @@ PUT _cluster/settings
     "indices.cdc.ck.batch.time": 1000
   }
 }
+```
 
 
 指定索引是否打开cdc记录功能，打开cdc功能后指定数据写入的表名
 
+```java
 PUT zmccc
 {
   "settings": {
@@ -58,9 +61,13 @@ PUT zmccc
     }
   }
 }
+```
+
 
 
 测试数据：
+
+```java
 POST zmccc/_doc/20
 {
 	"doc_id": 1,
@@ -74,7 +81,7 @@ POST zmccc/_doc/20
 		"age": 25
 	}]
 }
-
+```
 
 
 
