@@ -1,8 +1,0 @@
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/DataBean.java
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/Config.java
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/ck/CkConnectionPool.java
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/ck/CachedCkClient.java
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/CDCPlugin.java
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/CDCListener.java
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/CkClientSettings.java
-/Users/leon/ctrip_project/elasticsearch-cdc-ck/src/main/java/com/ctrip/cdc/PluginSettings.java
